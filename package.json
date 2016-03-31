@@ -1,0 +1,15 @@
+{
+  "name": "travel",
+  "version": "1.0.0",
+  "description": "A test of node and express",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TX",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "express3-handlebars": "^0.5.2"
+  }
+}
